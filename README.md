@@ -175,9 +175,45 @@ temporaly unsorted:
 * [Volvo XC90 CAN bus adapter to restore wheel buttons and park assistant functionality](https://github.com/olegel/VolvoCan)
 * [Volvo S60R 2007 DIM](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) - project to power a volvo DIM outside of the car
 * [Volvo S60 MY2009, aka P2 facelift model](https://github.com/waal70/VolvoCANBUS)
-
 * [BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50)](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/ccm)
 * [BUSMaster files for emulation of Central Electronics Module](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/cem)
 
+
+
+
+
+
+## etc
+
+Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
+
+
+## Tags
+
+#awesome
+#awesome-list
+#can
+#can-bus
+#canbus
+#logger
+#sniffer
+#socketcan
+#car-hacking
+#bus-monitoring
+#lawicel
+#elm327
+#obd2
+#canutils
+#automotive
+#embedded
+#sae
+#uds
+#obd-ii
+#usb2can
+#dbc
+#electric-vehicles
+#vehicular-networks
+#python
+#automotive-security
 
 
