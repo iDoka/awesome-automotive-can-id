@@ -83,6 +83,11 @@ Links for general DB and uther useful resources:
 
 ## Lexus
 
+
+* [Lexus RX 450h (RU)](https://habr.com/ru/post/450140/)
+
+
+
 ## Lotus
 
 ## Mazda
@@ -100,6 +105,9 @@ Links for general DB and uther useful resources:
 ## MINI
 
 ## Mitsubishi
+
+* [Mitsubishi Lancer 2008 (RU)](https://habr.com/ru/post/448658/)
+
 
 ## Nissan
 
@@ -150,17 +158,22 @@ temporaly unsorted:
 * [Toyota Prius gen2](https://github.com/gerdbremer/Prius-gen2-torque-PIDs)
 
 
-## VAG (Audi, Volkswagen, Seat)
+## VAG (Audi, Volkswagen, Seat, Skoda)
 
 
 ### Audi
 
 ### Seat
 
+### Skoda
+
+* [Skoda Octavia A5 2011 (RU)](https://habr.com/ru/post/442184/)
+
+
 ### Volkswagen
 
 * [Volkswagen drivetrain CAN bus IDs](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md)
-
+* [MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc)](https://github.com/bri3d/MQBSimosLogVariables/blob/master/exportedPIDs.csv)
 
 
 ## Volvo
