@@ -34,6 +34,8 @@ Links for general DB and uther useful resources:
 
 ## BMW
 
+* [BMW E65 7 Series Powertrain CAN bus](https://github.com/damienmaguire/BMW-E65-CANBUS)
+* [BMW DBUS/IBUS/KBUS information/reference/examples](https://github.com/kmalinich/node-bmw-ref)
 * [Arduino library for devices compatible with either avr_can or due_can, to interface with a BMW iDrive controller](https://github.com/thatdamnranga/iDrive)
 
 
@@ -111,11 +113,11 @@ Links for general DB and uther useful resources:
 
 ## Nissan
 
-* [**Various Nissan models**](https://docs.google.com/spreadsheets/d/1EHa4R85BttuY4JZ-EnssH4YZddpsDVu6rUFm0P7ouwg/edit#gid=1)
+* [**Various Nissan models** (Nissan LEAF and around)](https://docs.google.com/spreadsheets/d/1EHa4R85BttuY4JZ-EnssH4YZddpsDVu6rUFm0P7ouwg/edit#gid=1)
 * [Nissan Sentra 2010](https://github.com/jackm/carhack/blob/master/nissan.md)
 * [Nissan 370Z 2010](https://github.com/Knio/carhack/blob/master/Cars/Nissan.markdown)
 * [LEAF CAN bus message decoding with proper database files](https://github.com/dalathegreat/leaf_can_bus_messages)
-
+* [Some Logs from my Gen 1 Nissan Leaf](https://github.com/damienmaguire/LeafLogs)
 
 ## Opel
 
@@ -176,7 +178,7 @@ temporaly unsorted:
 
 * [Volkswagen drivetrain CAN bus IDs](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md)
 * [MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc)](https://github.com/bri3d/MQBSimosLogVariables/blob/master/exportedPIDs.csv)
-
+* [VW Touran 2004](https://github.com/jsphuebner/stm32-car#can-configuration-vw)
 
 ## Volvo
 
