@@ -111,9 +111,11 @@ Links for general DB and uther useful resources:
 
 ## Nissan
 
+* [**Various Nissan models**](https://docs.google.com/spreadsheets/d/1EHa4R85BttuY4JZ-EnssH4YZddpsDVu6rUFm0P7ouwg/edit#gid=1)
 * [Nissan Sentra 2010](https://github.com/jackm/carhack/blob/master/nissan.md)
 * [Nissan 370Z 2010](https://github.com/Knio/carhack/blob/master/Cars/Nissan.markdown)
-https://github.com/dalathegreat/leaf_can_bus_messages LEAF CAN bus message decoding with proper database files
+* [LEAF CAN bus message decoding with proper database files](https://github.com/dalathegreat/leaf_can_bus_messages)
+
 
 ## Opel
 
@@ -187,6 +189,7 @@ temporaly unsorted:
 * [Arduino CANBUS Volvo S60 DPF soot filter](https://github.com/waal70/S60CAN)
 * [Volvo XC90 CAN bus adapter to restore wheel buttons and park assistant functionality](https://github.com/olegel/VolvoCan)
 * [Volvo S60R 2007 DIM](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) - project to power a volvo DIM outside of the car
+* [Volvo S60R 2007 DIM](https://github.com/andrewgabler/VolvoDIM/blob/master/Research/Notes%20on%20CANBUS) - Notes on CANBUS
 * [Volvo S60 MY2009, aka P2 facelift model](https://github.com/waal70/VolvoCANBUS)
 * [BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50)](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/ccm)
 * [BUSMaster files for emulation of Central Electronics Module](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/cem)
