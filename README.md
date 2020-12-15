@@ -36,8 +36,12 @@ Links for general DB and uther useful resources:
 
 * [BMW E65 7 Series Powertrain CAN bus](https://github.com/damienmaguire/BMW-E65-CANBUS)
 * [BMW DBUS/IBUS/KBUS information/reference/examples](https://github.com/kmalinich/node-bmw-ref)
-* [Arduino library for devices compatible with either avr_can or due_can, to interface with a BMW iDrive controller](https://github.com/thatdamnranga/iDrive)
 
+
+### iDrive
+* [Arduino library for devices compatible with either avr_can or due_can, to interface with a BMW iDrive controller](https://github.com/thatdamnranga/iDrive)
+* [iDrive controller 500k CAN speed (2004y late model)](https://github.com/Autohome2/idrive-controller)
+* [Arduino canbus reader for events on iDrive knob controller](https://github.com/jegb/iDrive_knob)
 
 ## General Motors (Buick, Cadillac, Chevrolet, GMC)
 
@@ -56,6 +60,9 @@ Links for general DB and uther useful resources:
 ## Ford (Lincoln, Mercury)
 
 * [Ford extended PIDs](https://knowhow.windstar-club.de/index.php/PID-Codes)
+* [Ford Escape 2010 LTD with Active Park Assist](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus)
+
+
 
 ## Honda
 
@@ -79,6 +86,7 @@ Links for general DB and uther useful resources:
 * [Kia Soul Brake-Petrol](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29)
 * [Kia Soul Brake-EV](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29)
 
+**Note**: Kia Soul (2014-...) - All KIA (without Picanto) 2014+ have same systems
 
 
 ## Land Rover
@@ -159,7 +167,13 @@ temporaly unsorted:
 
 ## Toyota
 
+
+* [TIS Document Ripper](https://github.com/threadproc/tis-rip) - script allows you to rip electrical wiring diagrams, collision/body repair manuals, and repair manuals from Toyota's TIS
 * [Toyota Prius gen2](https://github.com/gerdbremer/Prius-gen2-torque-PIDs)
+* [Toyota Prius 2010 with Intelligent Parking Assist](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus)
+* [Arduino emulating a CD Changer on a Toyota AVC LAN network](https://github.com/halleysfifthinc/Toyota-AVC-LAN)
+* [Arduino emulating a CD Changer on a Toyota AVC LAN network (another project)](https://github.com/instalator/AVC-LAN-Toyota)
+* [Toyota Prius CAN message translator](https://github.com/HbirdJ/CAN-Translator)
 
 
 ## VAG (Audi, Volkswagen, Seat, Skoda)
