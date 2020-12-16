@@ -21,8 +21,8 @@ Links for general DB and uther useful resources:
 
 * [Democratize access to car decoder rings by CommaAI](https://github.com/commaai/opendbc)
 * [Vehicle Reverse Engineering Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki)
-
-
+* [Opengarages Raw link references for CAN IDs](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs)
+* [RACELOGIC Vehicle CAN Database](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database)
 
 ## Acura
 
@@ -30,6 +30,7 @@ Links for general DB and uther useful resources:
 
 ## Audi
 
+* [Audi Q8 2019](https://github.com/robbederks/q8_flexray_dumps) - raw dumps + decoded frames of the EPS FlexRay bus 
 
 
 ## BMW
@@ -39,15 +40,20 @@ Links for general DB and uther useful resources:
 
 
 ### iDrive
+
 * [Arduino library for devices compatible with either avr_can or due_can, to interface with a BMW iDrive controller](https://github.com/thatdamnranga/iDrive)
 * [iDrive controller 500k CAN speed (2004y late model)](https://github.com/Autohome2/idrive-controller)
 * [Arduino canbus reader for events on iDrive knob controller](https://github.com/jegb/iDrive_knob)
 
 ## General Motors (Buick, Cadillac, Chevrolet, GMC)
 
-
+* [Opengarages GM LAN 29 Bit ID](http://opengarages.org/index.php/GM_LAN_29_Bit_ID)
+* [GM LAN bible](https://docs.google.com/spreadsheets/d/1qEwOXSr3bWoc2VUhpuIam236OOZxPc2hxpLUsV0xkn0/edit)
 
 ## Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)
+
+* [Opengarages Dodge CAN ID](http://opengarages.org/index.php/Dodge_CAN_ID)
+
 
 ### Jeep
 
@@ -103,6 +109,7 @@ Links for general DB and uther useful resources:
 ## Mazda
 
 * [Database of known Mazda CAN messages](https://github.com/majbthrd/MazdaCANbus)
+* [Opengarages Mazda CAN ID](http://opengarages.org/index.php/Mazda_CAN_ID)
 
 ## Mercedes-Benz
 
@@ -174,7 +181,7 @@ temporaly unsorted:
 * [Arduino emulating a CD Changer on a Toyota AVC LAN network](https://github.com/halleysfifthinc/Toyota-AVC-LAN)
 * [Arduino emulating a CD Changer on a Toyota AVC LAN network (another project)](https://github.com/instalator/AVC-LAN-Toyota)
 * [Toyota Prius CAN message translator](https://github.com/HbirdJ/CAN-Translator)
-
+* [Opengarages Toyota CAN ID](http://opengarages.org/index.php/Toyota_CAN_ID)
 
 ## VAG (Audi, Volkswagen, Seat, Skoda)
 
@@ -204,14 +211,14 @@ temporaly unsorted:
 * [Volvo C30 1.6d DRIVe](https://paul.sullivan.za.org/volvo-c30-1.6d/OBD-II_CAN-bus/)
 * [Arduino CANBUS Volvo S60 DPF soot filter](https://github.com/waal70/S60CAN)
 * [Volvo XC90 CAN bus adapter to restore wheel buttons and park assistant functionality](https://github.com/olegel/VolvoCan)
+* [Volvo XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules)
 * [Volvo S60R 2007 DIM](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) - project to power a volvo DIM outside of the car
 * [Volvo S60R 2007 DIM](https://github.com/andrewgabler/VolvoDIM/blob/master/Research/Notes%20on%20CANBUS) - Notes on CANBUS
 * [Volvo S60 MY2009, aka P2 facelift model](https://github.com/waal70/VolvoCANBUS)
 * [BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50)](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/ccm)
 * [BUSMaster files for emulation of Central Electronics Module](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/cem)
-
-
-
+* [OBD-II CAN Data Extraction and Analysis from Volvo S60](https://github.com/ezkripke/volvo-CAN-exploration)
+* [Volvo P3 PIDs (RU)](https://docs.google.com/spreadsheets/d/10vq5NIZu0Sd2SSoK2_YSrcsWrItZNC0X2rPcIWvLuS8/edit#gid=542587416)
 
 
 
