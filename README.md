@@ -110,6 +110,7 @@ Links for general DB and uther useful resources:
 
 * [Database of known Mazda CAN messages](https://github.com/majbthrd/MazdaCANbus)
 * [Opengarages Mazda CAN ID](http://opengarages.org/index.php/Mazda_CAN_ID)
+* [CAN database for Mazda (SkyActiv and RX-8)](https://github.com/majbthrd/MazdaCANbus)
 
 ## Mercedes-Benz
 
