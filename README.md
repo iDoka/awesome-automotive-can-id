@@ -30,7 +30,7 @@ Links for general DB and uther useful resources:
 
 ## Audi
 
-* [Audi Q8 2019](https://github.com/robbederks/q8_flexray_dumps) - raw dumps + decoded frames of the EPS FlexRay bus 
+* [Audi Q8 2019](https://github.com/robbederks/q8_flexray_dumps) - raw dumps + decoded frames of the EPS FlexRay bus
 
 
 ## BMW
@@ -59,8 +59,10 @@ Links for general DB and uther useful resources:
 
 * [Projects around CAN BUS in Chrysler Jeep - VES enabler, other small features](https://github.com/latonita/jeep-canbus)
 
+
 ## Fiat
 
+* [Fiat 500](https://github.com/P1kachu/talking-with-cars/blob/master/notes/fiat-500.txt)
 
 
 ## Ford (Lincoln, Mercury)
@@ -171,6 +173,12 @@ temporaly unsorted:
 ## Subaru
 
 
+## Suzuki
+
+* [Suzuki Swift IV AZG 1.3 DDiS 16V 75cv](https://github.com/P1kachu/talking-with-cars/blob/master/notes/suzuki-swift-IV.txt)
+
+
+
 ## Tesla
 
 * [Tesla Model 3 CAN IDs and payload](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0)
@@ -186,6 +194,8 @@ temporaly unsorted:
 * [Arduino emulating a CD Changer on a Toyota AVC LAN network (another project)](https://github.com/instalator/AVC-LAN-Toyota)
 * [Toyota Prius CAN message translator](https://github.com/HbirdJ/CAN-Translator)
 * [Opengarages Toyota CAN ID](http://opengarages.org/index.php/Toyota_CAN_ID)
+* [Toyota Yaris](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md)
+
 
 ## VAG (Audi, Volkswagen, Seat, Skoda)
 
@@ -204,6 +214,9 @@ temporaly unsorted:
 * [Volkswagen drivetrain CAN bus IDs](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md)
 * [MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc)](https://github.com/bri3d/MQBSimosLogVariables/blob/master/exportedPIDs.csv)
 * [VW Touran 2004](https://github.com/jsphuebner/stm32-car#can-configuration-vw)
+* [Volkswagen Polo R6](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt)
+* [Volkswagen Polo R6](https://github.com/P1kachu/talking-with-cars/tree/master/docs)
+
 
 ## Volvo
 
