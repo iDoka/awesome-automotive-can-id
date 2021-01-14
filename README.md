@@ -142,7 +142,7 @@ Links for general DB and uther useful resources:
 * [Opel Astra H](https://github.com/alex161rus/Opel-Astra-H)
 * [Opel Astra H climate](https://github.com/megadrifter/AstraH_climate/blob/master/AstraH_climate.ino)
 * [Opel Astra H DB](https://github.com/Trueffelwurm/Car-CAN-Message-DB)
-* [Opel Astra H CANlib](https://github.com/megadrifter/astra-can-lib)
+* [Opel Astra H (LS CAN, MS CAN)](https://github.com/megadrifter/Astra-H-Public)
 
 
 ## PSA (Peugeot, Citroen, DS)
