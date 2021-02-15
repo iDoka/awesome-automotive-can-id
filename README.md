@@ -38,12 +38,16 @@ Links for general DB and uther useful resources:
 * [BMW E65 7 Series Powertrain CAN bus](https://github.com/damienmaguire/BMW-E65-CANBUS)
 * [BMW DBUS/IBUS/KBUS information/reference/examples](https://github.com/kmalinich/node-bmw-ref)
 
+### BMW motorcycle
+
+* [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit)
 
 ### iDrive
 
 * [Arduino library for devices compatible with either avr_can or due_can, to interface with a BMW iDrive controller](https://github.com/thatdamnranga/iDrive)
 * [iDrive controller 500k CAN speed (2004y late model)](https://github.com/Autohome2/idrive-controller)
 * [Arduino canbus reader for events on iDrive knob controller](https://github.com/jegb/iDrive_knob)
+
 
 ## General Motors (Buick, Cadillac, Chevrolet, GMC)
 
