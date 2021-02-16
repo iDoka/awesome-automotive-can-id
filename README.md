@@ -37,10 +37,12 @@ Links for general DB and uther useful resources:
 
 * [BMW E65 7 Series Powertrain CAN bus](https://github.com/damienmaguire/BMW-E65-CANBUS)
 * [BMW DBUS/IBUS/KBUS information/reference/examples](https://github.com/kmalinich/node-bmw-ref)
+* [BMW CANBUS information/reference](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus)
 
 ### BMW motorcycle
 
 * [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit)
+
 
 ### iDrive
 
@@ -53,6 +55,7 @@ Links for general DB and uther useful resources:
 
 * [Opengarages GM LAN 29 Bit ID](http://opengarages.org/index.php/GM_LAN_29_Bit_ID)
 * [GM LAN bible](https://docs.google.com/spreadsheets/d/1qEwOXSr3bWoc2VUhpuIam236OOZxPc2hxpLUsV0xkn0/edit)
+
 
 ## Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)
 
@@ -85,7 +88,11 @@ Links for general DB and uther useful resources:
 
 * [Hyundai Solaris 2013 (RU)](https://www.drive2.ru/b/522073135831319435/)
 
+
 ## Infiniti
+
+* [Infiniti G37 2011](https://github.com/icecube45/Dash_InfinitiG37/blob/master/InfinitiG37.dbc)
+
 
 ## Jaguar
 
