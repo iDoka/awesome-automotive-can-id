@@ -10,9 +10,46 @@ URL: https://github.com/iDoka/awesome-automotive-can-id
 
 DB by Brands/Models:
 
-```
-/* todo */
-```
+* [Acura](#acura)
+* [BMW](#bmw)
+  * [BMW motorcycle](#bmw-motorcycle)
+  * [iDrive](#idrive)
+* [General Motors (Buick, Cadillac, Chevrolet, GMC)](#general-motors-buick-cadillac-chevrolet-gmc)
+* [Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)](#daimler-chrysler-chrysler-dodge-jeep-ram)
+  * [Jeep](#jeep)
+* [Fiat](#fiat)
+* [Ford (Lincoln, Mercury)](#ford-lincoln-mercury)
+* [Honda](#honda)
+* [Hyundai](#hyundai)
+* [Infiniti](#infiniti)
+* [Jaguar](#jaguar)
+* [Kia](#kia)
+* [Land Rover](#land-rover)
+* [Lexus](#lexus)
+* [Lotus](#lotus)
+* [Mazda](#mazda)
+* [Mercedes-Benz](#mercedes-benz)
+* [MINI](#mini)
+* [Mitsubishi](#mitsubishi)
+* [Nissan](#nissan)
+* [Opel](#opel)
+* [PSA (Peugeot, Citroen, DS)](#psa-peugeot-citroen-ds)
+  * [Citroen](#citroen)
+  * [Peugeot](#peugeot)
+  * [DS](#ds)
+* [SAAB](#saab)
+* [Subaru](#subaru)
+* [Suzuki](#suzuki)
+* [Tesla](#tesla)
+* [Toyota](#toyota)
+* [VAG (Audi, Porsche, Volkswagen, Seat, Skoda)](#vag)
+  * [Audi](#audi)
+  * [Porsche](#porsche)
+  * [Seat](#seat)
+  * [Skoda](#skoda)
+  * [Volkswagen](#volkswagen)
+* [Volvo](#volvo)
+
 
 
 ## Common
@@ -25,12 +62,6 @@ Links for general DB and uther useful resources:
 * [RACELOGIC Vehicle CAN Database](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database)
 
 ## Acura
-
-
-
-## Audi
-
-* [Audi Q8 2019](https://github.com/robbederks/q8_flexray_dumps) - raw dumps + decoded frames of the EPS FlexRay bus
 
 
 ## BMW
@@ -208,10 +239,14 @@ temporaly unsorted:
 * [Toyota Yaris](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md)
 
 
-## VAG (Audi, Volkswagen, Seat, Skoda)
+## VAG
 
 
 ### Audi
+
+* [Audi Q8 2019](https://github.com/robbederks/q8_flexray_dumps) - raw dumps + decoded frames of the EPS FlexRay bus
+
+### Porsche
 
 ### Seat
 
