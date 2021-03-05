@@ -108,7 +108,7 @@ Links for general DB and uther useful resources:
 
 * [Ford extended PIDs](https://knowhow.windstar-club.de/index.php/PID-Codes)
 * [Ford Escape 2010 LTD with Active Park Assist](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus)
-
+* [Ford Fiesta MK5 >2006 (MK5 restyling)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus)
 
 
 ## Honda
@@ -163,6 +163,8 @@ Links for general DB and uther useful resources:
 * [controller for 722.6 automatic transmission](https://github.com/mkovero/7226ctrl)
 * [W203-canbus](https://github.com/rnd-ash/W203-canbus) - Open source project for W211/W219 W203/W209 Mercs - bluetooth audio control and more
 * [W203 canbus](https://docs.google.com/spreadsheets/d/1krPDmjjwmlta4jAVcDMoWbseAokUYnBAHn67pOo00C0/edit#gid=2038710733)
+* [W203 C200 CDI](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) - should theoretically work on W203/w209/w211/w219 vehicles
+* [Mercedes 2000-2007](https://github.com/rnd-ash/MBUX-Port) - see txt files with canbus desciption (tested on W203 C200 CDI, but in theory, any W203/211/219/209 should work)
 
 
 ## MINI
