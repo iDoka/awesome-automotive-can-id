@@ -109,7 +109,7 @@ Links for general DB and uther useful resources:
 * [Ford extended PIDs](https://knowhow.windstar-club.de/index.php/PID-Codes)
 * [Ford Escape 2010 LTD with Active Park Assist](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus)
 * [Ford Fiesta MK5 >2006 (MK5 restyling)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus)
-
+* [DBC files for Lincoln MKZ and Ford Fusion](https://github.com/autti/abraham)
 
 ## Honda
 
@@ -138,6 +138,12 @@ Links for general DB and uther useful resources:
 * [Kia Soul Brake-EV](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29)
 
 **Note**: Kia Soul (2014-...) - All KIA (without Picanto) 2014+ have same systems
+
+
+
+## KTM
+
+* [Python library for decoding KTM motorcycle CAN-bus messages](https://github.com/blalor/ktm-can)
 
 
 ## Land Rover
