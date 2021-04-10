@@ -25,6 +25,7 @@ DB by Brands/Models:
 * [Infiniti](#infiniti)
 * [Jaguar](#jaguar)
 * [Kia](#kia)
+* [KTM motorcycle](#ktm)
 * [Land Rover](#land-rover)
 * [Lexus](#lexus)
 * [Lotus](#lotus)
