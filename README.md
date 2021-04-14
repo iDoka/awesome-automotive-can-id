@@ -88,12 +88,13 @@ Links for general DB and uther useful resources:
 
 * [Opengarages GM LAN 29 Bit ID](http://opengarages.org/index.php/GM_LAN_29_Bit_ID)
 * [GM LAN bible](https://docs.google.com/spreadsheets/d/1qEwOXSr3bWoc2VUhpuIam236OOZxPc2hxpLUsV0xkn0/edit)
-
+* [GMLAN CAN ID](https://github.com/karlyamashita/common_libraries/blob/master/GMLAN_CAN_ID.h)
+* [GMLAN CAN ID v2](https://github.com/karlyamashita/common_libraries/blob/master/GMLAN_CAN_ID_V2.h)
 
 ## Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)
 
 * [Opengarages Dodge CAN ID](http://opengarages.org/index.php/Dodge_CAN_ID)
-
+* [Several CHRYSLER models CAN ID](https://github.com/karlyamashita/common_libraries/blob/master/CHRYSLER_CAN_ID.h)
 
 ### Jeep
 
@@ -111,6 +112,7 @@ Links for general DB and uther useful resources:
 * [Ford Escape 2010 LTD with Active Park Assist](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus)
 * [Ford Fiesta MK5 >2006 (MK5 restyling)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus)
 * [DBC files for Lincoln MKZ and Ford Fusion](https://github.com/autti/abraham)
+* [FORD Mustang 2005 CAN 125k](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h)
 
 ## Honda
 
@@ -247,7 +249,7 @@ temporaly unsorted:
 * [Toyota Prius CAN message translator](https://github.com/HbirdJ/CAN-Translator)
 * [Opengarages Toyota CAN ID](http://opengarages.org/index.php/Toyota_CAN_ID)
 * [Toyota Yaris](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md)
-
+* [Toyota 2018 Tacoma](https://github.com/karlyamashita/common_libraries/blob/master/TOYOTA_CAN_ID.h)
 
 ## VAG
 
@@ -272,7 +274,7 @@ temporaly unsorted:
 * [VW Touran 2004](https://github.com/jsphuebner/stm32-car#can-configuration-vw)
 * [Volkswagen Polo R6](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt)
 * [Volkswagen Polo R6](https://github.com/P1kachu/talking-with-cars/tree/master/docs)
-
+* [VW_CAN_ID](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h)
 
 ## Volvo
 
