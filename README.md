@@ -178,6 +178,8 @@ Links for general DB and uther useful resources:
 
 ## MINI
 
+* [Mini Cooper 2002-2006](https://github.com/equinox311/open-can-db/raw/master/2002-2006_mini_cooper_all.xlsx)
+
 ## Mitsubishi
 
 * [Mitsubishi Lancer 2008 (RU)](https://habr.com/ru/post/448658/)
@@ -225,6 +227,10 @@ temporaly unsorted:
 ## SAAB
 
 ## Subaru
+
+* [Subaru Legacy 2005-2009](https://github.com/equinox311/open-can-db/raw/master/2005-2008_subaru_legacy_gt.xlsx)
+* [Subaru BRZ 2013+](https://github.com/equinox311/open-can-db/raw/master/2013%2B_subaru_brz.xlsx)
+* [Subaru Impreza WRX STi 2015+](https://github.com/equinox311/open-can-db/raw/master/2015%2B_subaru_impreza_sti.xlsx)
 
 
 ## Suzuki
