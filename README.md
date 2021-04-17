@@ -113,6 +113,7 @@ Links for general DB and uther useful resources:
 * [Ford Fiesta MK5 >2006 (MK5 restyling)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus)
 * [DBC files for Lincoln MKZ and Ford Fusion](https://github.com/autti/abraham)
 * [FORD Mustang 2005 CAN 125k](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h)
+* [Ford Fusion and Lincoln MKZ](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc)
 
 ## Honda
 
