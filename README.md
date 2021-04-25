@@ -193,6 +193,8 @@ Links for general DB and uther useful resources:
 * [Nissan 370Z 2010](https://github.com/Knio/carhack/blob/master/Cars/Nissan.markdown)
 * [LEAF CAN bus message decoding with proper database files](https://github.com/dalathegreat/leaf_can_bus_messages)
 * [Some Logs from my Gen 1 Nissan Leaf](https://github.com/damienmaguire/LeafLogs)
+* [Nissan LEAF](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF)
+
 
 ## Opel
 
@@ -282,6 +284,8 @@ temporaly unsorted:
 * [Volkswagen Polo R6](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt)
 * [Volkswagen Polo R6](https://github.com/P1kachu/talking-with-cars/tree/master/docs)
 * [VW_CAN_ID](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h)
+* [Volkswagen e-Golf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf)
+
 
 ## Volvo
 
