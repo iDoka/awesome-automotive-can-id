@@ -13,7 +13,6 @@ DB by Brands/Models:
 * [**Common**](#common)
 * [Acura](#acura)
 * [BMW](#bmw)
-  * [BMW motorcycle](#bmw-motorcycle)
   * [iDrive](#idrive)
 * [General Motors (Buick, Cadillac, Chevrolet, GMC)](#general-motors-buick-cadillac-chevrolet-gmc)
 * [Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)](#daimler-chrysler-chrysler-dodge-jeep-ram)
@@ -25,7 +24,6 @@ DB by Brands/Models:
 * [Infiniti](#infiniti)
 * [Jaguar](#jaguar)
 * [Kia](#kia)
-* [KTM motorcycle](#ktm)
 * [Land Rover](#land-rover)
 * [Lexus](#lexus)
 * [Lotus](#lotus)
@@ -53,7 +51,12 @@ DB by Brands/Models:
   * [Volkswagen](#volkswagen)
 * [Volvo](#volvo)
 
+---
 
+* [Motorcycles](#motorcycles)
+  * [BMW motorcycle](#bmw-motorcycle)
+  * [Ducati](#ducati)
+  * [KTM motorcycle](#ktm)
 
 ## Common
 
@@ -73,9 +76,6 @@ Links for general DB and uther useful resources:
 * [BMW DBUS/IBUS/KBUS information/reference/examples](https://github.com/kmalinich/node-bmw-ref)
 * [BMW CANBUS information/reference](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus)
 
-### BMW motorcycle
-
-* [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit)
 
 
 ### iDrive
@@ -146,10 +146,6 @@ Links for general DB and uther useful resources:
 **Note**: Kia Soul (2014-...) - All KIA (without Picanto) 2014+ have same systems
 
 
-
-## KTM
-
-* [Python library for decoding KTM motorcycle CAN-bus messages](https://github.com/blalor/ktm-can)
 
 
 ## Land Rover
@@ -312,6 +308,25 @@ temporaly unsorted:
 * [OBD-II CAN Data Extraction and Analysis from Volvo S60](https://github.com/ezkripke/volvo-CAN-exploration)
 * [Volvo P3 PIDs (RU)](https://docs.google.com/spreadsheets/d/10vq5NIZu0Sd2SSoK2_YSrcsWrItZNC0X2rPcIWvLuS8/edit#gid=542587416)
 
+
+---
+
+## Motorcycles
+
+### BMW motorcycle
+
+* [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit)
+
+### Ducati
+
+* [Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)](https://github.com/renatobo/DucatiPanigaleCanBus)
+
+### KTM
+
+* [Python library for decoding KTM motorcycle CAN-bus messages](https://github.com/blalor/ktm-can)
+
+
+---
 
 
 ## etc
