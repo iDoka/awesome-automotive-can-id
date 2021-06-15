@@ -124,7 +124,8 @@ Links for general DB and uther useful resources:
 ## Hyundai
 
 * [Hyundai Solaris 2013 (RU)](https://www.drive2.ru/b/522073135831319435/)
-
+* [Hyundai Veloster 2016](https://github.com/tylerwatt12/VelosterCANBus)
+* [Hyundai Genesis 5.0 2015](https://github.com/joshpatten/HyundaiCan)
 
 ## Infiniti
 
