@@ -154,7 +154,7 @@ Links for general DB and uther useful resources:
 
 
 * [Lexus RX 450h (RU)](https://habr.com/ru/post/450140/)
-
+* [Lexus RX350 2011 (RU)](https://github.com/Paucpauc/lexus_canbus_id)
 
 
 ## Lotus
@@ -319,6 +319,7 @@ temporaly unsorted:
 
 ### Ducati
 
+* [Collective decoding of Ducati CANBUS messages](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351)
 * [Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)](https://github.com/renatobo/DucatiPanigaleCanBus)
 
 ### KTM
