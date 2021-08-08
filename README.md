@@ -142,6 +142,7 @@ Links for general DB and uther useful resources:
 * [Kia Soul Throttle](https://github.com/PolySync/oscc/wiki/Firmware-Throttle)
 * [Kia Soul Brake-Petrol](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28Petrol%29)
 * [Kia Soul Brake-EV](https://github.com/PolySync/oscc/wiki/Firmware-Brake-%28EV%29)
+* [Kia EV](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs)
 
 **Note**: Kia Soul (2014-...) - All KIA (without Picanto) 2014+ have same systems
 
