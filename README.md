@@ -248,6 +248,7 @@ temporaly unsorted:
 ## Tesla
 
 * [Tesla Model 3 CAN IDs and payload](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0)
+* [DBC file for Tesla Model 3 CAN messages](https://github.com/joshwardell/model3dbc)
 * [Tesla Model S/X CAN IDs and payload](https://docs.google.com/spreadsheets/d/1UBHw2eY3QyJL3vUz0CnTZ7iLlLB-ao5s61hexT0GuHM/edit#gid=0)
 
 ## Toyota
