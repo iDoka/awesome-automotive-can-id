@@ -281,6 +281,7 @@ temporaly unsorted:
 ### Audi
 
 * [Audi Q8 2019](https://github.com/robbederks/q8_flexray_dumps) - raw dumps + decoded frames of the EPS FlexRay bus
+* [Audi e-tron](https://github.com/bradarnold/e-tron_OBD2ABRP/blob/main/OBD/main.py)
 
 ### Porsche
 
