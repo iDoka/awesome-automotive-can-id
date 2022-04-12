@@ -301,6 +301,8 @@ temporaly unsorted:
 * [VW_CAN_ID](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h)
 * [Volkswagen e-Golf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf)
 * [Volkswagen MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv)
+* [VW e-Up](https://www.goingelectric.de/wiki/Liste-der-OBD2-Codes/)
+
 
 ## Volvo
 
