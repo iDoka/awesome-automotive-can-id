@@ -202,6 +202,7 @@ Links for general DB and uther useful resources:
 * [LEAF CAN bus message decoding with proper database files](https://github.com/dalathegreat/leaf_can_bus_messages)
 * [Some Logs from my Gen 1 Nissan Leaf](https://github.com/damienmaguire/LeafLogs)
 * [Nissan LEAF](https://github.com/dalathegreat/EV-CANlogs/tree/main/Nissan%20LEAF)
+* [Nissan LEAF #2](https://leaf-obd.readthedocs.io/en/latest/pid/index.html)
 
 
 ## Opel
