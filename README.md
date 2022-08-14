@@ -116,12 +116,14 @@ Links for general DB and uther useful resources:
 * [FORD Mustang 2005 CAN 125k](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h)
 * [Ford Fusion and Lincoln MKZ](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc)
 ### Fiesta
-   * [Ford Fiesta MK5 >2006 (MK5 restyling)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus)
+   * [Ford Fiesta MK5 >2006 (MK5 restyling, Bus speed 125K)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus)
    * [Ford Fiesta MK7](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0)
    * [Ford Fiesta MK7.5](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description)
 ### [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx)
    * [CANBus decoded](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx)
    * [Orion](https://github.com/jakka351/FG-Falcon#orion-canbus)
+### Ford Transit
+   * [Ford Transit 2020](https://github.com/slyt/van-hack)
 
 
 ## Honda
@@ -301,6 +303,7 @@ temporaly unsorted:
 * [Volkswagen Polo R6](https://github.com/P1kachu/talking-with-cars/tree/master/docs)
 * [VW_CAN_ID](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h)
 * [Volkswagen e-Golf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf)
+* [Volkswagen e-Golf #2](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue)
 * [Volkswagen MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv)
 * [VW e-Up](https://www.goingelectric.de/wiki/Liste-der-OBD2-Codes/)
 
