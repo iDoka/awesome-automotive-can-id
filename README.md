@@ -304,6 +304,7 @@ temporaly unsorted:
 * [VW_CAN_ID](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h)
 * [Volkswagen e-Golf](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf)
 * [Volkswagen e-Golf #2](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue)
+* [Volkswagen Golf GTI MK5](https://docs.google.com/spreadsheets/d/1eirT8LbSRl4j06BpwgsiE4PM_2BGH9UStdWLXwKvHJw/edit)
 * [Volkswagen MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv)
 * [VW e-Up](https://www.goingelectric.de/wiki/Liste-der-OBD2-Codes/)
 
