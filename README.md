@@ -1,6 +1,6 @@
-# :blue_car: CAN bus Databases by Car Vendors
+# :blue_car: Awesome CAN bus Databases by Car Vendors [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-My unpretentious attempt to collect info about CAN IDs and payloads for various car brands/models in one place.
+An attempt to collect info about CAN IDs and payloads for various car brands/models in one place.
 
 Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
 
