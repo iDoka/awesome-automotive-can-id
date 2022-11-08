@@ -355,6 +355,11 @@ temporaly unsorted:
 Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
 
+## Contributing
+
+- Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+
 ## Tags
 
 #awesome
