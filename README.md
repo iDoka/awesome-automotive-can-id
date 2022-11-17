@@ -21,7 +21,6 @@ URL: https://github.com/iDoka/awesome-automotive-can-id
 DB by Brands/Models:
 
 * [Common](#common)
-
 * [Acura](#acura)
 * [BMW](#bmw)
   * [iDrive](#idrive)
@@ -61,15 +60,13 @@ DB by Brands/Models:
   * [Skoda](#skoda)
   * [Volkswagen](#volkswagen)
 * [Volvo](#volvo)
-
 * [Motorcycles](#motorcycles)
   * [BMW motorcycle](#bmw-motorcycle)
   * [Ducati](#ducati)
   * [KTM motorcycle](#ktm-motorcycle)
-
 * [Etc](#etc)
 * [Contributing](#contributing)
-* [Tags](#tags)
+
 
 <!--lint disable no-repeat-punctuation-->
 
@@ -382,7 +379,7 @@ Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-re
 
 * Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
-
+<!--
 ## Tags
 
 #awesome
@@ -410,5 +407,5 @@ Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-re
 #vehicular-networks
 #python
 #automotive-security
-
+-->
 
