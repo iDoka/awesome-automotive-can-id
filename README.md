@@ -1,5 +1,4 @@
 # Awesome CAN Bus Databases By Car Vendors [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/)
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/)
@@ -66,7 +65,11 @@ DB by Brands/Models:
 * [Motorcycles](#motorcycles)
   * [BMW motorcycle](#bmw-motorcycle)
   * [Ducati](#ducati)
-  * [KTM motorcycle](#ktm)
+  * [KTM motorcycle](#ktm-motorcycle)
+
+* [Etc](#etc)
+* [Contributing](#contributing)
+* [Tags](#tags)
 
 <!--lint disable no-repeat-punctuation-->
 
@@ -362,7 +365,7 @@ temporaly unsorted:
 * [Collective decoding of Ducati CANBUS messages](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351).
 * [Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)](https://github.com/renatobo/DucatiPanigaleCanBus).
 
-### KTM
+### KTM motorcycle
 
 * [Python library for decoding KTM motorcycle CAN-bus messages](https://github.com/blalor/ktm-can).
 
@@ -370,7 +373,7 @@ temporaly unsorted:
 ---
 <!--lint enable no-repeat-punctuation-->
 
-## etc
+## Etc
 
 Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
