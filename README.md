@@ -17,11 +17,12 @@ Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus
 
 URL: https://github.com/iDoka/awesome-automotive-can-id
 
-## Content
+## Contents
 
 DB by Brands/Models:
 
-* [**Common**](#common)
+* [Common](#common)
+
 * [Acura](#acura)
 * [BMW](#bmw)
   * [iDrive](#idrive)
@@ -128,15 +129,18 @@ Links for general DB and uther useful resources:
 * [DBC files for Lincoln MKZ and Ford Fusion](https://github.com/autti/abraham).
 * [FORD Mustang 2005 CAN 125k](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h).
 * [Ford Fusion and Lincoln MKZ](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc).
+
 ### Fiesta
-   * [Ford Fiesta MK5 >2006 (MK5 restyling, Bus speed 125K)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus).
-   * [Ford Fiesta MK7](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0).
-   * [Ford Fiesta MK7.5](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description).
+  * [Ford Fiesta MK5 >2006 (MK5 restyling, Bus speed 125K)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus).
+  * [Ford Fiesta MK7](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0).
+  * [Ford Fiesta MK7.5](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description).
+
 ### [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx).
-   * [CANBus decoded](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx).
-   * [Orion](https://github.com/jakka351/FG-Falcon#orion-canbus).
+  * [CANBus decoded](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx).
+  * [Orion](https://github.com/jakka351/FG-Falcon#orion-canbus).
+
 ### Ford Transit
-   * [Ford Transit 2020](https://github.com/slyt/van-hack).
+  * [Ford Transit 2020](https://github.com/slyt/van-hack).
 
 
 ## Honda
@@ -194,10 +198,10 @@ Links for general DB and uther useful resources:
 
 * [Mercedes-Benz-CAN-BUS](https://github.com/dvjcodec/Mercedes-Benz-CAN-BUS) - Understand and run units via CAN-bus network.
 * [controller for 722.6 automatic transmission](https://github.com/mkovero/7226ctrl).
-* [W203-canbus](https://github.com/rnd-ash/W203-canbus) - Open source project for W211/W219 W203/W209 Mercs - bluetooth audio control and more.
+* [W203-canbus](https://github.com/rnd-ash/W203-canbus) - Open source project for W211/W219 W203/W209 Mercs (bluetooth audio control and more).
 * [W203 canbus](https://docs.google.com/spreadsheets/d/1krPDmjjwmlta4jAVcDMoWbseAokUYnBAHn67pOo00C0/edit#gid=2038710733).
-* [W203 C200 CDI](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) - should theoretically work on W203/w209/w211/w219 vehicles.
-* [Mercedes 2000-2007](https://github.com/rnd-ash/MBUX-Port) - see txt files with canbus desciption (tested on W203 C200 CDI, but in theory, any W203/211/219/209 should work).
+* [W203 C200 CDI](https://github.com/rnd-ash/ultimate_nag52/tree/main/firmware/canframes) - Should theoretically work on W203/w209/w211/w219 vehicles.
+* [Mercedes 2000-2007](https://github.com/rnd-ash/MBUX-Port) - See txt files with canbus desciption (tested on W203 C200 CDI, but in theory, any W203/211/219/209 should work).
 
 
 ## MINI
@@ -279,7 +283,7 @@ temporaly unsorted:
 ## Toyota
 
 
-* [TIS Document Ripper](https://github.com/threadproc/tis-rip) - script allows you to rip electrical wiring diagrams, collision/body repair manuals, and repair manuals from Toyota's TIS.
+* [TIS Document Ripper](https://github.com/threadproc/tis-rip) - Script allows you to rip electrical wiring diagrams, collision/body repair manuals, and repair manuals from Toyota's TIS.
 * [Toyota Prius gen2](https://github.com/gerdbremer/Prius-gen2-torque-PIDs).
 * [Toyota Prius 2010 with Intelligent Parking Assist](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus).
 * [Arduino emulating a CD Changer on a Toyota AVC LAN network](https://github.com/halleysfifthinc/Toyota-AVC-LAN).
@@ -294,7 +298,7 @@ temporaly unsorted:
 
 ### Audi
 
-* [Audi Q8 2019](https://github.com/robbederks/q8_flexray_dumps) - raw dumps + decoded frames of the EPS FlexRay bus.
+* [Audi Q8 2019](https://github.com/robbederks/q8_flexray_dumps) - RAW dumps + decoded frames of the EPS FlexRay bus.
 * [Audi e-tron](https://github.com/bradarnold/e-tron_OBD2ABRP/blob/main/OBD/main.py).
 
 ### Porsche
@@ -332,7 +336,7 @@ temporaly unsorted:
 * [Arduino CANBUS Volvo S60 DPF soot filter](https://github.com/waal70/S60CAN).
 * [Volvo XC90 CAN bus adapter to restore wheel buttons and park assistant functionality](https://github.com/olegel/VolvoCan).
 * [Volvo XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules).
-* [Volvo S60R 2007 DIM](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) - project to power a volvo DIM outside of the car.
+* [Volvo S60R 2007 DIM](https://github.com/andrewgabler/VolvoDIM/tree/master/Research) - Project to power a volvo DIM outside of the car.
 * [Volvo S60R 2007 DIM](https://github.com/andrewgabler/VolvoDIM/blob/master/Research/Notes%20on%20CANBUS) - Notes on CANBUS.
 * [Volvo S60 MY2009, aka P2 facelift model](https://github.com/waal70/VolvoCANBUS).
 * [BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50)](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/ccm).
@@ -347,16 +351,16 @@ temporaly unsorted:
 
 ### BMW motorcycle
 
-* [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit) - .
+* [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit).
 
 ### Ducati
 
 * [Collective decoding of Ducati CANBUS messages](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351) - .
-* [Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)](https://github.com/renatobo/DucatiPanigaleCanBus) - .
+* [Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)](https://github.com/renatobo/DucatiPanigaleCanBus).
 
 ### KTM
 
-* [Python library for decoding KTM motorcycle CAN-bus messages](https://github.com/blalor/ktm-can) - .
+* [Python library for decoding KTM motorcycle CAN-bus messages](https://github.com/blalor/ktm-can).
 
 
 ---
