@@ -1,4 +1,4 @@
-# :blue_car: Awesome CAN bus Databases by Car Vendors
+# :blue_car: Awesome CAN Bus Databases By Car Vendors 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/)
@@ -63,8 +63,6 @@ DB by Brands/Models:
   * [Volkswagen](#volkswagen)
 * [Volvo](#volvo)
 
----
-
 * [Motorcycles](#motorcycles)
   * [BMW motorcycle](#bmw-motorcycle)
   * [Ducati](#ducati)
@@ -125,22 +123,25 @@ Links for general DB and uther useful resources:
 ## Ford (Lincoln, Mercury)
 
 * ~~[Ford extended PIDs](https://knowhow.windstar-club.de/index.php/PID-Codes)~~.
+<!--lint disable double-link-->
 * [Ford Escape 2010 LTD with Active Park Assist](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus).
+<!--lint enable double-link-->
 * [DBC files for Lincoln MKZ and Ford Fusion](https://github.com/autti/abraham).
 * [FORD Mustang 2005 CAN 125k](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h).
 * [Ford Fusion and Lincoln MKZ](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc).
 
 ### Fiesta
-  * [Ford Fiesta MK5 >2006 (MK5 restyling, Bus speed 125K)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus).
-  * [Ford Fiesta MK7](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0).
-  * [Ford Fiesta MK7.5](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description).
+* [Ford Fiesta MK5 >2006 (MK5 restyling, Bus speed 125K)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus).
+* [Ford Fiesta MK7](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0).
+* [Ford Fiesta MK7.5](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description).
 
-### [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx).
-  * [CANBus decoded](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx).
-  * [Orion](https://github.com/jakka351/FG-Falcon#orion-canbus).
+### Ford FG Falcon
+* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx)
+* [CANBus decoded](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx).
+* [Orion](https://github.com/jakka351/FG-Falcon#orion-canbus).
 
 ### Ford Transit
-  * [Ford Transit 2020](https://github.com/slyt/van-hack).
+* [Ford Transit 2020](https://github.com/slyt/van-hack).
 
 
 ## Honda
@@ -215,7 +216,8 @@ Links for general DB and uther useful resources:
 
 ## Nissan
 
-* [**Various Nissan models** (Nissan LEAF and around)](https://docs.google.com/spreadsheets/d/1EHa4R85BttuY4JZ-EnssH4YZddpsDVu6rUFm0P7ouwg/edit#gid=1).
+* [Various Nissan models (Nissan LEAF and around)](https://docs.google.com/spreadsheets/d/1EHa4R85BttuY4JZ-EnssH4YZddpsDVu6rUFm0P7ouwg/edit#gid=1).
+
 * [Nissan Sentra 2010](https://github.com/jackm/carhack/blob/master/nissan.md).
 * [Nissan 370Z 2010](https://github.com/Knio/carhack/blob/master/Cars/Nissan.markdown).
 * [LEAF CAN bus message decoding with proper database files](https://github.com/dalathegreat/leaf_can_bus_messages).
@@ -285,7 +287,9 @@ temporaly unsorted:
 
 * [TIS Document Ripper](https://github.com/threadproc/tis-rip) - Script allows you to rip electrical wiring diagrams, collision/body repair manuals, and repair manuals from Toyota's TIS.
 * [Toyota Prius gen2](https://github.com/gerdbremer/Prius-gen2-torque-PIDs).
+<!--lint disable double-link-->
 * [Toyota Prius 2010 with Intelligent Parking Assist](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus).
+<!--lint enable double-link-->
 * [Arduino emulating a CD Changer on a Toyota AVC LAN network](https://github.com/halleysfifthinc/Toyota-AVC-LAN).
 * [Arduino emulating a CD Changer on a Toyota AVC LAN network (another project)](https://github.com/instalator/AVC-LAN-Toyota).
 * [Toyota Prius CAN message translator](https://github.com/HbirdJ/CAN-Translator).
@@ -355,7 +359,7 @@ temporaly unsorted:
 
 ### Ducati
 
-* [Collective decoding of Ducati CANBUS messages](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351) - .
+* [Collective decoding of Ducati CANBUS messages](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351).
 * [Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)](https://github.com/renatobo/DucatiPanigaleCanBus).
 
 ### KTM
