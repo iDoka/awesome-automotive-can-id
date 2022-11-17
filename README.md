@@ -1,5 +1,5 @@
-# Awesome CAN Bus Databases By Car Vendors
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CAN Bus Databases By Car Vendors [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/)
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/)
@@ -55,7 +55,7 @@ DB by Brands/Models:
 * [Suzuki](#suzuki)
 * [Tesla](#tesla)
 * [Toyota](#toyota)
-* [VAG (Audi, Porsche, Volkswagen, Seat, Skoda)](#vag)
+* [VAG (Audi, Porsche, Volkswagen, Seat, Skoda)](#vag-audi-porsche-volkswagen-seat-skoda)
   * [Audi](#audi)
   * [Porsche](#porsche)
   * [Seat](#seat)
@@ -297,7 +297,7 @@ temporaly unsorted:
 * [Toyota Yaris](https://github.com/P1kachu/talking-with-cars/blob/master/notes/toyota-yaris.md).
 * [Toyota 2018 Tacoma](https://github.com/karlyamashita/common_libraries/blob/master/TOYOTA_CAN_ID.h).
 
-## VAG
+## VAG (Audi, Porsche, Volkswagen, Seat, Skoda)
 
 
 ### Audi
