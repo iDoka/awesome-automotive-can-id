@@ -69,6 +69,8 @@ DB by Brands/Models:
   * [Ducati](#ducati)
   * [KTM motorcycle](#ktm)
 
+<!--lint disable no-repeat-punctuation-->
+
 ## Common
 
 Links for general DB and uther useful resources:
@@ -185,9 +187,8 @@ Links for general DB and uther useful resources:
 
 ## Mazda
 
-* [Database of known Mazda CAN messages](https://github.com/majbthrd/MazdaCANbus).
+* [Database of known Mazda (SkyActiv and RX-8) CAN messages](https://github.com/majbthrd/MazdaCANbus).
 * [Opengarages Mazda CAN ID](http://opengarages.org/index.php/Mazda_CAN_ID).
-* [CAN database for Mazda (SkyActiv and RX-8)](https://github.com/majbthrd/MazdaCANbus).
 
 ## Mercedes-Benz
 
@@ -346,20 +347,20 @@ temporaly unsorted:
 
 ### BMW motorcycle
 
-* [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit).
+* [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit) - .
 
 ### Ducati
 
-* [Collective decoding of Ducati CANBUS messages](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351).
-* [Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)](https://github.com/renatobo/DucatiPanigaleCanBus).
+* [Collective decoding of Ducati CANBUS messages](https://docs.google.com/spreadsheets/d/1-NJ9OlGQYTGMzBzwDPYn-aI_7_ign9SCiscKZufx3Uw/edit?pli=1#gid=1950998351) - .
+* [Ducati Panigale (899/959/1199/1199S/1199R/1299/1299S/R and Superleggera)](https://github.com/renatobo/DucatiPanigaleCanBus) - .
 
 ### KTM
 
-* [Python library for decoding KTM motorcycle CAN-bus messages](https://github.com/blalor/ktm-can).
+* [Python library for decoding KTM motorcycle CAN-bus messages](https://github.com/blalor/ktm-can) - .
 
 
 ---
-
+<!--lint enable no-repeat-punctuation-->
 
 ## etc
 
@@ -368,7 +369,7 @@ Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-re
 
 ## Contributing
 
-- Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+* Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
 
 ## Tags
