@@ -65,7 +65,6 @@ DB by Brands/Models:
   * [Ducati](#ducati)
   * [KTM motorcycle](#ktm-motorcycle)
 * [Etc](#etc)
-* [Contributing](#contributing)
 
 
 <!--lint disable no-repeat-punctuation-->
