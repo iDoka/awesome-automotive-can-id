@@ -174,7 +174,7 @@ Links for general DB and uther useful resources:
 ## Kia
 
 
-**Note**: Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems
+⚠ **Note**: Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems
 
 
 * [Kia](https://github.com/PolySync/OSCC) - Soul.
