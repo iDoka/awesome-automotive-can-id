@@ -215,7 +215,7 @@ Links for general DB and uther useful resources:
 
 ## MINI
 
-* [Mini](https://github.com/equinox311/open-can-db/raw/master/2002-2006_mini_cooper_all.xlsx) - Cooper 2002-2006 [XLSX].
+* [Mini](https://github.com/equinox311/open-can-db/raw/master/2002-2006_mini_cooper_all.xlsx) - Cooper 2002-2006 _[XLSX]_.
 
 ## Mitsubishi
 
@@ -240,10 +240,10 @@ Links for general DB and uther useful resources:
 
 
 ### Astra
-* [Opel Astra H](https://github.com/alex161rus/Opel-Astra-H) - .
-* [Opel Astra H climate](https://github.com/megadrifter/AstraH_climate/blob/master/AstraH_climate.ino) - .
-* [Opel Astra H DB](https://github.com/Trueffelwurm/Car-CAN-Message-DB) - .
-* [Opel Astra H (LS CAN, MS CAN)](https://github.com/megadrifter/Astra-H-Public) - .
+* [Opel Astra H](https://github.com/alex161rus/Opel-Astra-H) - CAN BUS.
+* [Opel Astra H](https://github.com/megadrifter/AstraH_climate/blob/master/AstraH_climate.ino) - Climate.
+* [Opel Astra H](https://github.com/Trueffelwurm/Car-CAN-Message-DB) - CAN Message Databases.
+* [Opel Astra H](https://github.com/megadrifter/Astra-H-Public) - LS CAN, MS CAN.
 
 
 ## PSA (Peugeot, Citroen, DS)
@@ -277,9 +277,9 @@ temporaly unsorted:
 
 ## Subaru
 
-* [Subaru](https://github.com/equinox311/open-can-db/raw/master/2005-2008_subaru_legacy_gt.xlsx) - Legacy 2005-2009 [XLSX].
-* [Subaru](https://github.com/equinox311/open-can-db/raw/master/2013%2B_subaru_brz.xlsx) - BRZ 2013+ [XLSX].
-* [Subaru](https://github.com/equinox311/open-can-db/raw/master/2015%2B_subaru_impreza_sti.xlsx) - Impreza WRX STi 2015+ [XLSX].
+* [Subaru](https://github.com/equinox311/open-can-db/raw/master/2005-2008_subaru_legacy_gt.xlsx) - Legacy 2005-2009 _[XLSX]_.
+* [Subaru](https://github.com/equinox311/open-can-db/raw/master/2013%2B_subaru_brz.xlsx) - BRZ 2013+ _[XLSX]_.
+* [Subaru](https://github.com/equinox311/open-can-db/raw/master/2015%2B_subaru_impreza_sti.xlsx) - Impreza WRX STi 2015+ _[XLSX]_.
 
 
 ## Suzuki
@@ -290,7 +290,7 @@ temporaly unsorted:
 ## Tesla
 
 * [Tesla](https://docs.google.com/spreadsheets/d/1ijvNE4lU9Xoruvcg5AhUNLKr7xYyHcxa8YSkTxAERUw/edit#gid=0) - Model 3 CAN IDs and payload.
-* [Tesla](https://github.com/joshwardell/model3dbc) - Model 3 DBC file CAN messages [DBC].
+* [Tesla](https://github.com/joshwardell/model3dbc) - Model 3 DBC file CAN messages _[DBC]_.
 * [Tesla](https://docs.google.com/spreadsheets/d/1UBHw2eY3QyJL3vUz0CnTZ7iLlLB-ao5s61hexT0GuHM/edit#gid=0) - Model S/X CAN IDs and payload.
 
 ## Toyota
@@ -342,7 +342,7 @@ temporaly unsorted:
 ## Volvo
 
 * [Volvo](https://github.com/vtl/volvo-ddd/blob/master/data/2005_xc70_b5254t2_aw55_us.h) - XC70 2.5T 2005 B5254T2+AW55.
-* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) - V60 2015 [DBC].
+* [Volvo](https://github.com/commaai/opendbc/blob/master/volvo_v60_2015_pt.dbc) - V60 2015 _[DBC]_.
 * [Volvo](https://github.com/olegel/VolvoCan) - XC90 CAN bus adapter to restore wheel buttons and park assistant functionality.
 * [Volvo](https://github.com/olegel/VolvoCan/tree/master/doc/VolvoModules) - XC90 CAN bus: CCM, CEM, TCM, LSM, REM, SWM.
 * [Volvo](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/ccm) - BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50).
@@ -372,7 +372,7 @@ temporaly unsorted:
 
 ### BMW motorcycle
 
-* [BMW Motorrad CAN messages](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit) - .
+* [BMW motorcycle](https://docs.google.com/spreadsheets/d/1tUrOES5fQZa92Robr6uP8v2dzQDq9ohHjUiTU3isqdc/edit) - BMW Motorrad CAN messages.
 
 ### Ducati
 
