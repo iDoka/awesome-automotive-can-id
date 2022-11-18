@@ -1,6 +1,4 @@
-
-# Awesome CAN Bus Databases By Car Vendors 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CAN Bus Databases By Car Vendors [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/)
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/)
