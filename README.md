@@ -26,6 +26,8 @@ DB by Brands/Models:
   * [iDrive](#idrive)
 * [General Motors (Buick, Cadillac, Chevrolet, GMC)](#general-motors-buick-cadillac-chevrolet-gmc)
 * [Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)](#daimler-chrysler-chrysler-dodge-jeep-ram)
+  * [Chrysler](#chrysler)
+  * [Dodge](#dodge)
   * [Jeep](#jeep)
 * [Fiat](#fiat)
 * [Ford (Lincoln, Mercury)](#ford-lincoln-mercury)
@@ -108,12 +110,14 @@ Links for general DB and uther useful resources:
 
 ## Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)
 
-* [Dodge](http://opengarages.org/index.php/Dodge_CAN_ID) - Opengarages Dodge CAN ID.
+### Chrysler
 * [CHRYSLER](https://github.com/karlyamashita/common_libraries/blob/master/CHRYSLER_CAN_ID.h) - Several CHRYSLER models CAN ID.
 
-### Jeep
+### Dodge
+* [Dodge](http://opengarages.org/index.php/Dodge_CAN_ID) - Opengarages Dodge CAN ID.
 
-* [Projects around CAN BUS in Chrysler Jeep - VES enabler, other small features](https://github.com/latonita/jeep-canbus) - .
+### Jeep
+* [Jeep](https://github.com/latonita/jeep-canbus) -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
 
 
 ## Fiat
@@ -130,10 +134,10 @@ Links for general DB and uther useful resources:
 * [Ford](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus) - Escape 2010 LTD with Active Park Assist.
 <!--lint enable double-link-->
 * [Ford](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) - Mustang 2005 CAN 125k.
-* [Ford and Lincoln](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) - files for Ford Fusion and Lincoln MKZ (DBC).
+* [Ford and Lincoln](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) - Files for Ford Fusion and Lincoln MKZ (DBC).
 
 ### Fiesta
-* [Ford Fiesta](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus) - MK5 >2006 (MK5 restyling, Bus speed 125K).
+* [Ford Fiesta](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus) - MK5 2006+ (MK5 restyling, Bus speed 125K).
 * [Ford Fiesta](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0) - MK7.
 * [Ford Fiesta](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description) - MK7.5.
 
@@ -309,7 +313,7 @@ temporaly unsorted:
 ### Audi
 
 * [Audi](https://github.com/robbederks/q8_flexray_dumps) - Q8 2019: RAW dumps + decoded frames of the EPS FlexRay bus.
-* [Audi](https://github.com/bradarnold/e-tron_OBD2ABRP/blob/main/OBD/main.py) - e-tron.
+* [Audi](https://github.com/bradarnold/e-tron_OBD2ABRP/blob/main/OBD/main.py) - E-tron.
 
 ### Porsche
 
@@ -322,17 +326,17 @@ temporaly unsorted:
 
 ### Volkswagen
 
-* [Volkswagen](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md) - drivetrain CAN bus IDs].
+* [Volkswagen](https://github.com/v-ivanyshyn/parse_can_logs/blob/master/VW%20CAN%20IDs%20Summary.md) - Drivetrain CAN bus IDs].
 * [Volkswagen](https://github.com/bri3d/MQBSimosLogVariables/blob/master/exportedPIDs.csv) - MQB platform (MK7 VW Golf R, GTI, 1.8, Audi S3/A3, etc).
 * [Volkswagen](https://github.com/jsphuebner/stm32-car#can-configuration-vw) - Touran 2004.
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) - Polo R6.
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) - Polo R6.
 * [Volkswagen](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h) - CAN_ID.
-* [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) - e-Golf.
-* [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) - e-Golf #2.
+* [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) - VW e-Golf.
+* [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) - VW e-Golf #2.
 * [Volkswagen](https://docs.google.com/spreadsheets/d/1eirT8LbSRl4j06BpwgsiE4PM_2BGH9UStdWLXwKvHJw/edit) - Golf GTI MK5.
 * [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
-* [Volkswagen](https://www.goingelectric.de/wiki/Liste-der-OBD2-Codes/) - e-Up.
+* [Volkswagen](https://www.goingelectric.de/wiki/Liste-der-OBD2-Codes/) - VW e-Up.
 
 
 ## Volvo
