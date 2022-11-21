@@ -116,10 +116,11 @@ Links for general DB and uther useful resources:
 
 ### Dodge
 * [Dodge](http://opengarages.org/index.php/Dodge_CAN_ID) - Opengarages Dodge CAN ID.
+* [Dodge](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering/blob/master/CAN-IHS%202010%20JK.ods) - Durango 2008 Internal CANBUS 83.333Kbps.
 
 ### Jeep
 * [Jeep](https://github.com/latonita/jeep-canbus) -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
-
+* [Jeep](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering) - Grand Cherokee 2006, Wrangler 2010.
 
 ## Fiat
 
