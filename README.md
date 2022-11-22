@@ -204,6 +204,10 @@ Links for general DB and uther useful resources:
 
 * [Mazda](https://github.com/majbthrd/MazdaCANbus) - Database of known Mazda (SkyActiv and RX-8) CAN messages.
 * [Mazda](http://opengarages.org/index.php/Mazda_CAN_ID) - Opengarages Mazda CAN ID.
+* [Mazda](http://www.madox.net/blog/projects/mazda-can-bus/) - 3 (MS and HS CAN).
+* [Mazda](https://github.com/ihaque/arduino-ecu-logger/blob/master/data/RX-8%20CAN%20bus%20data.xls) - RX8.
+* [Mazda](https://docs.google.com/spreadsheets/d/1SKfXAyo6fbAfMUENw1KR3w4Fvx_Ihj6sTPSVXBdOXKk/edit?usp=sharing) - model 3 (2nd gen) HS CAN.
+* [Mazda](https://docs.google.com/spreadsheets/d/1wjpo5WGLxsswjUi0MUDwKySKp3XejPfE5vdeieBFiGY/edit#gid=0) - model 3 (2nd gen) MS CAN.
 
 ## Mercedes-Benz
 
