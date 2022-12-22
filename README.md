@@ -1,21 +1,17 @@
-# Awesome CAN Bus Databases By Car Vendors [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CAN ID [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://badgen.net/github/stars/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/network/)
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-automotive-can-id/)](https://GitHub.com/iDoka/awesome-automotive-can-id/watchers/)
 [![GitHub contributors](https://badgen.net/github/contributors/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/graphs/contributors/)
 [![GitHub pull-requests merged](https://badgen.net/github/merged-prs/iDoka/awesome-automotive-can-id)](https://github.com/iDoka/awesome-automotive-can-id/pulls?q=is%3Amerged)
-
 <!-- [![GitHub latest commit](https://badgen.net/github/last-commit/iDoka/awesome-automotive-can-id)](https://GitHub.com/iDoka/awesome-automotive-can-id/commit/) -->
 
-
-
-
+> Awesome CAN Bus Databases for Automotive Vendors 
 
 An attempt to collect info about CAN IDs and payloads for various car brands/models in one place.
 
-Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+Permanent URL to this list: https://github.com/iDoka/awesome-automotive-can-id
 
-URL: https://github.com/iDoka/awesome-automotive-can-id
 
 ## Contents
 
@@ -71,7 +67,6 @@ DB by Brands/Models:
   * [BMW motorcycle](#bmw-motorcycle)
   * [Ducati](#ducati)
   * [KTM motorcycle](#ktm-motorcycle)
-* [Etc](#etc)
 
 
 
@@ -372,8 +367,8 @@ temporaly unsorted:
 * [Volvo S60](https://github.com/waal70/VolvoCANBUS) - MY2009, aka P2 facelift model.
 * [Volvo S60](https://github.com/waal70/S60CAN) - Arduino CANBUS Volvo S60 DPF soot filter.
 
-
 ---
+
 
 ## Motorcycles
 
@@ -390,17 +385,19 @@ temporaly unsorted:
 
 * [KTM motorcycle](https://github.com/blalor/ktm-can) - Python library for decoding KTM motorcycle CAN-bus messages.
 
-
 ---
-
-## Etc
-
-Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
 
 
 ## Contributing
 
 * Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+## Footnotes
+
+1. Please follow [this](https://github.com/iDoka/awesome-automotive-can-id) root-repo for lastest updates.
+2. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+
+
 
 <!--
 ## Tags
