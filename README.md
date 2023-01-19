@@ -34,6 +34,7 @@ DB by Brands/Models:
 * [Jaguar](#jaguar)
 * [Kia](#kia)
 * [Land Rover](#land-rover)
+  * [Range Rover](#range-rover)
 * [Lexus](#lexus)
 * [Lotus](#lotus)
 * [Mazda](#mazda)
@@ -167,11 +168,13 @@ Links for general DB and uther useful resources:
 
 ## Jaguar
 
+* [Jaguar XJ 2010MY](https://www.drive2.ru/b/578433277237395801/) - CAN Codes (RU).
+
+
 ## Kia
 
-
-⚠ **Note**: Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems
-
+> **Note**
+> ⚠ Kia Soul (2014+) - All KIA (except Picanto) 2014+ have same systems
 
 * [Kia](https://github.com/PolySync/OSCC) - Soul.
 * [Kia](https://github.com/PolySync/oscc/wiki/Firmware-OBD) - Soul OBD.
@@ -182,9 +185,16 @@ Links for general DB and uther useful resources:
 * [Kia](https://github.com/JejuSoul/OBD-PIDs-for-HKMC-EVs) - EV.
 
 
-
-
 ## Land Rover
+
+* [Freelander2 2.2 2007MY](https://www.drive2.ru/b/578407163836235804/) - CAN Codes (RU).
+* [Freelander2 2.2 2013MY](https://www.drive2.ru/b/578407438714142951/) - CAN Codes (RU).
+* [Discovery3 4.4 2006MY](https://www.drive2.ru/b/578407713592049777/) - CAN Codes (RU).
+
+### Range Rover
+
+* [Range Rover L322 2010MY](https://www.drive2.ru/b/588586167608284905/) - CAN Codes (RU).
+
 
 ## Lexus
 
