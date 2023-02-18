@@ -361,7 +361,7 @@ temporaly unsorted:
 * [Volvo](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/ccm) - BUSMaster files for emulation of Climate Control Module used in Volvo P1 platform (C30,C70,S40,V50).
 * [Volvo](https://github.com/johnbutol/CCM-busmaster/tree/master/SimulatedSystems/cem) - BUSMaster files for emulation of Central Electronics Module.
 * [Volvo](https://docs.google.com/spreadsheets/d/10vq5NIZu0Sd2SSoK2_YSrcsWrItZNC0X2rPcIWvLuS8/edit#gid=542587416) - P3 PIDs (RU).
-
+* [Volvo](https://github.com/damienmaguire/Volvo-V50-CAN-Info) - V50 (dumps in SavvyCAN format).
 
 ### C30
 
