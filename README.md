@@ -348,11 +348,15 @@ temporaly unsorted:
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/blob/master/notes/vw-polo-r6.txt) - Polo R6.
 * [Volkswagen](https://github.com/P1kachu/talking-with-cars/tree/master/docs) - Polo R6.
 * [Volkswagen](https://github.com/karlyamashita/common_libraries/blob/master/VW_CAN_ID.h) - CAN_ID.
+* [Volkswagen](https://docs.google.com/spreadsheets/d/1eirT8LbSRl4j06BpwgsiE4PM_2BGH9UStdWLXwKvHJw/edit) - Golf GTI MK5.
+* [Volkswagen](https://www.goingelectric.de/wiki/Liste-der-OBD2-Codes/) - VW e-Up.
+
+#### VW Hybrid and EV
+
+* [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
 * [Volkswagen](https://github.com/dalathegreat/EV-CANlogs/tree/main/Volkswagen%20e-Golf) - VW e-Golf.
 * [Volkswagen](https://github.com/EVNotify/EVNotify/blob/master/app/www/components/cars/E_GOLF.vue) - VW e-Golf #2.
-* [Volkswagen](https://docs.google.com/spreadsheets/d/1eirT8LbSRl4j06BpwgsiE4PM_2BGH9UStdWLXwKvHJw/edit) - Golf GTI MK5.
-* [Volkswagen](https://github.com/spot2000/Volkswagen-MEB-EV-CAN-parameters/blob/main/VW%20MEB%20UDS%20PIDs%20list.csv) - MEB EV (like ID.3 ID.4, Enyaq) UDS PIDs.
-* [Volkswagen](https://www.goingelectric.de/wiki/Liste-der-OBD2-Codes/) - VW e-Up.
+* [VW-GTE-ContactorBox](https://github.com/jamiejones85/VW-GTE-ContactorBox) - Reverse engineering the VW GTE Contactor Box (E-BOX).
 
 
 ## Volvo
