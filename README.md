@@ -20,6 +20,7 @@ DB by Brands/Models:
 * [Common](#common)
 * [Acura](#acura)
 * [BMW](#bmw)
+  * [BMW Hybrid vehicles](#bmw-hybrid-vehicles)
   * [iDrive](#idrive)
 * [General Motors (Buick, Cadillac, Chevrolet, GMC)](#general-motors-buick-cadillac-chevrolet-gmc)
 * [Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)](#daimler-chrysler-chrysler-dodge-jeep-ram)
@@ -90,7 +91,9 @@ Links for general DB and uther useful resources:
 * [BMW](https://github.com/kmalinich/node-bmw-ref) - DBUS/IBUS/KBUS information/reference/examples.
 * [BMW](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus) - CANBUS information/reference.
 
+### BMW Hybrid vehicles
 
+* [BMW BMS/Sbox](https://github.com/damienmaguire/BMW_SBox) - Reverse Engineering of the BMW SBox for use in EV conversion projects.
 
 ### iDrive
 
