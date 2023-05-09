@@ -137,6 +137,7 @@ Links for general DB and uther useful resources:
 <!--lint enable double-link-->
 * [Ford](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) - Mustang 2005 CAN 125k.
 * [Ford and Lincoln](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) - Files for Ford Fusion and Lincoln MKZ (DBC).
+* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) - python scripts with notes and a wiki on CANBus ids and behavior
 
 ### Fiesta
 * [Ford Fiesta](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus) - MK5 2006+ (MK5 restyling, Bus speed 125K).
