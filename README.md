@@ -297,7 +297,7 @@ temporaly unsorted:
 * [Subaru](https://github.com/equinox311/open-can-db/raw/master/2005-2008_subaru_legacy_gt.xlsx) - Legacy 2005-2009 _(XLSX)_.
 * [Subaru](https://github.com/equinox311/open-can-db/raw/master/2013%2B_subaru_brz.xlsx) - BRZ 2013+ _(XLSX)_.
 * [Subaru](https://github.com/equinox311/open-can-db/raw/master/2015%2B_subaru_impreza_sti.xlsx) - Impreza WRX STi 2015+ _(XLSX)_.
-
+* [Subaru](https://github.com/afreiday/2016-wrx-can-ids) - WRX 2016
 
 ## Suzuki
 
