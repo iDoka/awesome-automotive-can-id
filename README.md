@@ -218,6 +218,7 @@ Links for general DB and uther useful resources:
 * [Mazda](https://github.com/ihaque/arduino-ecu-logger/blob/master/data/RX-8%20CAN%20bus%20data.xls) - RX8.
 * [Mazda](https://docs.google.com/spreadsheets/d/1SKfXAyo6fbAfMUENw1KR3w4Fvx_Ihj6sTPSVXBdOXKk/edit?usp=sharing) - Model 3 (2nd gen) HS CAN.
 * [Mazda](https://docs.google.com/spreadsheets/d/1wjpo5WGLxsswjUi0MUDwKySKp3XejPfE5vdeieBFiGY/edit#gid=0) - Model 3 (2nd gen) MS CAN.
+* [Mazda](https://github.com/silverchris/Mazda3_Canbus_Messages) - Model 3.
 
 ## Mercedes-Benz
 
