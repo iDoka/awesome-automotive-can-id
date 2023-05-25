@@ -22,6 +22,7 @@ DB by Brands/Models:
 * [BMW](#bmw)
   * [BMW Hybrid vehicles](#bmw-hybrid-vehicles)
   * [iDrive](#idrive)
+* [BYD](#byd)
 * [General Motors (Buick, Cadillac, Chevrolet, GMC)](#general-motors-buick-cadillac-chevrolet-gmc)
 * [Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)](#daimler-chrysler-chrysler-dodge-jeep-ram)
   * [Chrysler](#chrysler)
@@ -101,6 +102,9 @@ Links for general DB and uther useful resources:
 * [BMW iDrive](https://github.com/Autohome2/idrive-controller) - iDrive controller 500k CAN speed (2004y late model).
 * [BMW iDrive](https://github.com/jegb/iDrive_knob) - Arduino canbus reader for events on iDrive knob controller.
 
+## BYD
+
+* [BYD](https://gitlab.com/pelle8/gen24/-/blob/main/gen24_byd_registers.md) - EV car battery system Gen24.
 
 ## General Motors (Buick, Cadillac, Chevrolet, GMC)
 
