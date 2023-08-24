@@ -88,9 +88,11 @@ Links for general DB and uther useful resources:
 
 ## BMW
 
-* [BMW](https://github.com/damienmaguire/BMW-E65-CANBUS) - E65 7 Series Powertrain CAN bus.
 * [BMW](https://github.com/kmalinich/node-bmw-ref) - DBUS/IBUS/KBUS information/reference/examples.
 * [BMW](https://github.com/kmalinich/node-bmw-ref/tree/master/canbus) - CANBUS information/reference.
+* [BMW](https://www.ms4x.net/index.php?title=Siemens_MS43_CAN_Bus) - BMW E46, MS43 ECU
+* [BMW](https://www.ms4x.net/index.php?title=Siemens_MS42_CAN_Bus) - BMW E46, MS42 ECU
+* [BMW](https://github.com/damienmaguire/BMW-E65-CANBUS) - E65 7 Series Powertrain CAN bus.
 
 ### BMW Hybrid vehicles
 
