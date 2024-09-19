@@ -55,6 +55,7 @@ DB by Brands/Models:
 * [SAAB](#saab)
 * [Subaru](#subaru)
 * [Suzuki](#suzuki)
+* [Tank](#tank)
 * [Tesla](#tesla)
 * [Toyota](#toyota)
 * [VAG (Audi, Porsche, Volkswagen, Seat, Skoda)](#vag-audi-porsche-volkswagen-seat-skoda)
@@ -127,6 +128,7 @@ Links for general DB and uther useful resources:
 ### Jeep
 * [Jeep](https://github.com/latonita/jeep-canbus) -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
 * [Jeep](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering) - Grand Cherokee 2006, Wrangler 2010.
+* [Jeep](https://raw.githubusercontent.com/SvetlAl/docs/refs/heads/master/jeep_grand_cherokee_2017.txt) - Grand Cherokee 2017, dashboard speed,cruise.
 
 ## Fiat
 
@@ -312,6 +314,9 @@ temporaly unsorted:
 
 * [Suzuki](https://github.com/P1kachu/talking-with-cars/blob/master/notes/suzuki-swift-IV.txt) - Swift IV AZG 1.3 DDiS 16V 75cv.
 
+## Tank
+
+* [Tank](https://raw.githubusercontent.com/SvetlAl/docs/refs/heads/master/tank500.txt) - Tank-500 FD CAN speedometer, odometer.
 
 ## Tesla
 
