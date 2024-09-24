@@ -128,7 +128,7 @@ Links for general DB and uther useful resources:
 ### Jeep
 * [Jeep](https://github.com/latonita/jeep-canbus) -  CAN BUS in Chrysler Jeep - VES enabler, other small features.
 * [Jeep](https://github.com/BiggRanger/CANBUS-Vehicle-Reverse-Engineering) - Grand Cherokee 2006, Wrangler 2010.
-* [Jeep](https://raw.githubusercontent.com/SvetlAl/docs/refs/heads/master/jeep_grand_cherokee_2017.txt) - Grand Cherokee 2017, dashboard speed,cruise.
+* [Jeep](https://github.com/SvetlAl/docs/blob/master/jeep_grand_cherokee_2017.txt) - Grand Cherokee 2017, dashboard speed,cruise.
 
 ## Fiat
 
@@ -316,7 +316,7 @@ temporaly unsorted:
 
 ## Tank
 
-* [Tank](https://raw.githubusercontent.com/SvetlAl/docs/refs/heads/master/tank500.txt) - Tank-500 FD CAN speedometer, odometer.
+* [Tank](https://github.com/SvetlAl/docs/blob/master/tank500.txt) - Tank-500 FD CAN speedometer, odometer.
 
 ## Tesla
 
