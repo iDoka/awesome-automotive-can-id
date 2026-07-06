@@ -184,6 +184,7 @@ Links for general DB and uther useful resources:
 ## Jaguar
 
 * [Jaguar XJ 2010MY](https://www.drive2.ru/b/578433277237395801/) - CAN Codes (RU).
+* [Jaguar XF 2013MY - Facelift](https://github.com/fsfarmscaper/jaguar-xf-x250-can) - CAN Codes & DBCs
 
 
 ## Kia
