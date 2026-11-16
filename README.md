@@ -71,6 +71,7 @@ DB by Brands/Models:
   * [BMW motorcycle](#bmw-motorcycle)
   * [Ducati](#ducati)
   * [KTM motorcycle](#ktm-motorcycle)
+  * [Yamaha motorcycle](#yamaha-motorcycle)
 
 
 
@@ -427,6 +428,10 @@ temporaly unsorted:
 ### KTM motorcycle
 
 * [KTM motorcycle](https://github.com/blalor/ktm-can) - Python library for decoding KTM motorcycle CAN-bus messages.
+
+### Yamaha motorcycle
+
+* [Yamaha Tracer 9 / CP3](https://github.com/bratukh/yamaha-cp3-can) - Yamaha Tracer 9 (2021-2024, CP3 engine): signal database, DBC, OBD-II and UDS, sample captures.
 
 ---
 
