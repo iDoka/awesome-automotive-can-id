@@ -155,7 +155,7 @@ Links for general DB and uther useful resources:
 ### Fiesta
 - [Fiesta MK5 (2006+)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus) - MK5 2006+ (MK5 restyling, Bus speed 125K).
 - [Fiesta MK7](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0) - MK7.
-- [Fiesta MK7.5](https://github.fereste.tablero/wiki/Ford-Fiesta-CAN-bus-description) - MK7.5.
+- [Fiesta MK7.5](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description) - MK7.5.
 
 ### Mustang
 - [Mustang (2005)](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) - Mustang 2005 CAN 125k.
