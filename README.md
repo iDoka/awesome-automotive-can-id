@@ -138,29 +138,32 @@ Links for general DB and uther useful resources:
 
 
 ## Ford (Lincoln, Mercury)
-<!--lint disable no-repeat-punctuation-->
-* [Ford](https://web.archive.org/web/20190823053615/https://knowhow.windstar-club.de/index.php/PID-Codes) - extended PIDs.
-<!--lint enable no-repeat-punctuation-->
-<!--lint disable double-link-->
-* [Ford](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus) - Escape 2010 LTD with Active Park Assist.
-<!--lint enable double-link-->
-* [Ford](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) - Mustang 2005 CAN 125k.
-* [Ford and Lincoln](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) - Files for Ford Fusion and Lincoln MKZ (DBC).
-* [S550 Mustang, 2015-2017](https://github.com/EricTurner3/s550-canbus) - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) on CANBus ids and behavior.
-* [Mustang, 2007-2009](https://github.com/thomastech/CAN2Cluster) - Emulator for Dashboard Instrument Cluster.
+
+### General
+- [Extended PID Codes](https://web.archive.org/web/20190823053615/https://knowhow.windstar-club.de/index.php/PID-Codes) - extended PIDs.
+- [Fusion & Lincoln MKZ DBC](https://github.com/autti/abraham/blob/master/lincoln_mkz.dbc) - Files for Ford Fusion and Lincoln MKZ (DBC).
+
+### Escape
+- [Escape (2010)](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus) - Escape 2010 LTD with Active Park Assist.
+- [Escape (2009, Hybrid)](https://github.com/msbence/ford-escape-mk2-can-id) - Ford Escape 2009 Limited Hybrid, CANbus reverse engineering.
+
+### Falcon
+- [FG Falcon 6FPA](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) - FG Falcon (XLSX).
+- [FG Falcon Decoded](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) - CANBus decoded (XLSX).
+- [Falcon Orion Platform](https://github.com/jakka351/FG-Falcon#orion-canbus) - Orion.
 
 ### Fiesta
-* [Ford Fiesta](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus) - MK5 2006+ (MK5 restyling, Bus speed 125K).
-* [Ford Fiesta](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0) - MK7.
-* [Ford Fiesta](https://github.com/fereste/tablero/wiki/Ford-Fiesta-CAN-bus-description) - MK7.5.
+- [Fiesta MK5 (2006+)](https://github.com/roncapat/Ford-Fiesta-MK5-MS-CAN-bus) - MK5 2006+ (MK5 restyling, Bus speed 125K).
+- [Fiesta MK7](https://docs.google.com/spreadsheets/d/1oTembZpwUSb6LsxbFklwt7mOIdheLecYU2B6ZJ6AhQs/edit#gid=0) - MK7.
+- [Fiesta MK7.5](https://github.fereste.tablero/wiki/Ford-Fiesta-CAN-bus-description) - MK7.5.
 
-### Ford FG Falcon
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/6FPA.xlsx) - FG Falcon (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon/blob/master/fg_controller_area_network_latest.xlsx) - CANBus decoded (XLSX).
-* [Ford FG Falcon](https://github.com/jakka351/FG-Falcon#orion-canbus) - Orion.
+### Mustang
+- [Mustang (2005)](https://github.com/karlyamashita/common_libraries/blob/master/FORD_CAN_ID.h) - Mustang 2005 CAN 125k.
+- [Mustang (2007-2009)](https://github.com/thomastech/CAN2Cluster) - Emulator for Dashboard Instrument Cluster.
+- [Mustang S550 (2015-2017)](https://github.com/EricTurner3/s550-canbus) - Python scripts with notes and a [wiki](https://github.com/EricTurner3/s550-canbus/wiki) on CANBus ids and behavior.
 
-### Ford Transit
-* [Ford Transit](https://github.com/slyt/van-hack) - 2020.
+### Transit
+- [Transit (2020)](https://github.com/slyt/van-hack) - 2020.
 
 
 ## Honda
