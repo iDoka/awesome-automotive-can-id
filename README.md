@@ -432,7 +432,8 @@ temporaly unsorted:
 ### Yamaha motorcycle
 
 * [Yamaha Tracer 9 / CP3](https://github.com/bratukh/yamaha-cp3-can) - Yamaha Tracer 9 (2021-2024, CP3 engine): signal database, DBC, OBD-II and UDS, sample captures.
-
+* [Yamaha R9](https://github.com/DeziderMesko/motocan) - Yamaha R9 (2026) CAN bus: decoded signals, DBC, raw captures and tools.
+* 
 ---
 
 
