@@ -80,6 +80,7 @@ DB by Brands/Models:
 Links for general DB and uther useful resources:
 
 * [CommaAI](https://github.com/commaai/opendbc) - Democratize access to car decoder rings by CommaAI. 
+* [CSS Electronics](https://www.csselectronics.com/pages/obd2-dbc-file) - Free OBD2 DBC file with ~150 standard Mode 01 PIDs.
 * [Fandom Wiki](https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki) - Vehicle Reverse Engineering Wiki.
 * [Opengarages](http://opengarages.org/index.php/Raw_link_references_for_CAN_IDs) - Raw link references for CAN IDs.
 * [RACELOGIC](https://www.vboxautomotive.co.uk/index.php/en/customer-area/vehicle-can-database) - Vehicle CAN Database.
